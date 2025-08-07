@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaymin Raval!!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a Computer Engineering student passionate about Web Development and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayminraval2908&label=Profile%20views&color=0e75b6&style=flat" alt="jayminraval2908" /> </p>
 
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayminraval2908&show_icons=true&locale=en&layout=compact" alt="jayminraval2908" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayminraval2908&show_icons=true&locale=en" alt="jayminraval2908" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayminraval2908&" alt="jayminraval2908" /></p>
